@@ -1,0 +1,13 @@
+pytesseract
+numpy
+opencv-python
+tensorflow==2.15.0
+webcolors
+easyocr
+google.generativeai
+python-dotenv
+PyPDF2
+openai
+faiss-cpu
+tiktoken
+langchain
